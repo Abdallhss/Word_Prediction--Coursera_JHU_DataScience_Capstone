@@ -35,7 +35,7 @@ Shiny App Description:
 
 Shiny App Screenshot:
 ========================================================    
-![plot of chunk unnamed-chunk-1](Word_Prediction_NGrams-figure/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](/Capture.png)
 
 Conclusions & Future work:
 ========================================================    
