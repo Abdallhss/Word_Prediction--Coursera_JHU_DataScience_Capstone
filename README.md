@@ -35,7 +35,7 @@ Shiny App Description:
 
 Shiny App Screenshot:
 ========================================================    
-![ ](/https://github.com/Abdallhss/Word_Prediction--Coursera_JHU_DataScience_Capstone/blob/master/Capture.PNG)
+![Screenshot](Capture.PNG)
 
 Conclusions & Future work:
 ========================================================    
